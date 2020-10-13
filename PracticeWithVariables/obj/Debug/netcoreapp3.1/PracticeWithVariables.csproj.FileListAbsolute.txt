@@ -1,0 +1,13 @@
+C:\Users\khema\source\repos\PracticeWithVariables\PracticeWithVariables\bin\Debug\netcoreapp3.1\PracticeWithVariables.exe
+C:\Users\khema\source\repos\PracticeWithVariables\PracticeWithVariables\bin\Debug\netcoreapp3.1\PracticeWithVariables.deps.json
+C:\Users\khema\source\repos\PracticeWithVariables\PracticeWithVariables\bin\Debug\netcoreapp3.1\PracticeWithVariables.runtimeconfig.json
+C:\Users\khema\source\repos\PracticeWithVariables\PracticeWithVariables\bin\Debug\netcoreapp3.1\PracticeWithVariables.runtimeconfig.dev.json
+C:\Users\khema\source\repos\PracticeWithVariables\PracticeWithVariables\bin\Debug\netcoreapp3.1\PracticeWithVariables.dll
+C:\Users\khema\source\repos\PracticeWithVariables\PracticeWithVariables\bin\Debug\netcoreapp3.1\PracticeWithVariables.pdb
+C:\Users\khema\source\repos\PracticeWithVariables\PracticeWithVariables\obj\Debug\netcoreapp3.1\PracticeWithVariables.csprojAssemblyReference.cache
+C:\Users\khema\source\repos\PracticeWithVariables\PracticeWithVariables\obj\Debug\netcoreapp3.1\PracticeWithVariables.AssemblyInfoInputs.cache
+C:\Users\khema\source\repos\PracticeWithVariables\PracticeWithVariables\obj\Debug\netcoreapp3.1\PracticeWithVariables.AssemblyInfo.cs
+C:\Users\khema\source\repos\PracticeWithVariables\PracticeWithVariables\obj\Debug\netcoreapp3.1\PracticeWithVariables.csproj.CoreCompileInputs.cache
+C:\Users\khema\source\repos\PracticeWithVariables\PracticeWithVariables\obj\Debug\netcoreapp3.1\PracticeWithVariables.dll
+C:\Users\khema\source\repos\PracticeWithVariables\PracticeWithVariables\obj\Debug\netcoreapp3.1\PracticeWithVariables.pdb
+C:\Users\khema\source\repos\PracticeWithVariables\PracticeWithVariables\obj\Debug\netcoreapp3.1\PracticeWithVariables.genruntimeconfig.cache
